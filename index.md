@@ -10,3 +10,9 @@ blah blah
 const myVar = 1+1
 console.log(myVar)
 ```
+
+### Task List
+- [X] STUFF
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
